@@ -76,23 +76,11 @@ PRODUCT_PACKAGES += \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
-    libAlacSwDec \
-    libApeSwDec \
     libMpeg4SwEncoder \
-    libOmxAacDec \
-    libOmxAlacDec \
-    libOmxAlacDecSw \
-    libOmxAmrDec \
-    libOmxAmrwbplusDec \
-    libOmxApeDec \
-    libOmxApeDecSw \
-    libOmxEvrcDec \
     libOmxG711Dec \
-    libOmxQcelp13Dec \
     libOmxSwVdec \
     libOmxSwVencMpeg4 \
     libOmxVpp \
-    libOmxWmaDec \
     libOmxVideoDSMode \
     libswvdec \
     libvpplibrary \
